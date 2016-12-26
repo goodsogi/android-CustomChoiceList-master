@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/bagjeong-gyu/AndroidStudioProjects/android-CustomChoiceList-master/Application/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/libs/internal_impl-24.1.1.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="/Users/bagjeong-gyu/AndroidStudioProjects/android-CustomChoiceList-master/Application/build/intermediates/pre-dexed/debug/internal_impl-24.1.1_c63d8caaad1d1397a5e3d7269461b28b44c856b0.jar" />
+    </item>
+    <item
+        jar="/Users/bagjeong-gyu/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.1.1/support-annotations-24.1.1.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="/Users/bagjeong-gyu/AndroidStudioProjects/android-CustomChoiceList-master/Application/build/intermediates/pre-dexed/debug/support-annotations-24.1.1_8b7402a0f8ff204d2555bb9d3256208ae4fd1a18.jar" />
+    </item>
+    <item
+        jar="/Users/bagjeong-gyu/AndroidStudioProjects/android-CustomChoiceList-master/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/24.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="4add8aa95c9f4e9a2ad64b7e2bf08e97e28955c1">
+        <dex dex="/Users/bagjeong-gyu/AndroidStudioProjects/android-CustomChoiceList-master/Application/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-24.1.1_207f42cf85a172dfd518ecf2f461fbee0f9ed099.jar" />
+    </item>
+    <item
+        jar="/Users/bagjeong-gyu/AndroidStudioProjects/android-CustomChoiceList-master/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
+        <dex dex="/Users/bagjeong-gyu/AndroidStudioProjects/android-CustomChoiceList-master/Application/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.1.1_24cae56fe4c0dabbc781f9685a72462f0f47f565.jar" />
+    </item>
+    <item
+        jar="/Users/bagjeong-gyu/AndroidStudioProjects/android-CustomChoiceList-master/Application/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="f62e763609f65e47dc6c498760a4accf02776788">
+        <dex dex="/Users/bagjeong-gyu/AndroidStudioProjects/android-CustomChoiceList-master/Application/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.1.1_eb79b68382550af7455a1c436ddacc95103261f8.jar" />
+    </item>
+    <item
+        jar="/Users/bagjeong-gyu/AndroidStudioProjects/android-CustomChoiceList-master/Application/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="/Users/bagjeong-gyu/AndroidStudioProjects/android-CustomChoiceList-master/Application/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.1.1_a63adf651bf7a5401bc19552ada140f2c9878b96.jar" />
+    </item>
+    <item
+        jar="/Users/bagjeong-gyu/AndroidStudioProjects/android-CustomChoiceList-master/Application/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
+        <dex dex="/Users/bagjeong-gyu/AndroidStudioProjects/android-CustomChoiceList-master/Application/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.1.1_606ef370ecc13ac2b83e16802e470beb7681b365.jar" />
+    </item>
+    <item
+        jar="/Users/bagjeong-gyu/AndroidStudioProjects/android-CustomChoiceList-master/Application/build/intermediates/exploded-aar/com.android.support/gridlayout-v7/24.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="8a5380ddd58f4f8946ddade4c64dd77de4a836d5">
+        <dex dex="/Users/bagjeong-gyu/AndroidStudioProjects/android-CustomChoiceList-master/Application/build/intermediates/pre-dexed/debug/com.android.support-gridlayout-v7-24.1.1_6bd869cb64bffbee6b4dd3a50126f4c6b4da2846.jar" />
+    </item>
+
+</items>
